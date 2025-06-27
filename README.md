@@ -4,9 +4,10 @@
 #### Stack Technique : Python, SQL, scikit-learn, Docker, AWS.
 
 ## Formation
-- Doctorat, Informatique | Université Paris Saclay (CentraleSupelec) (_May 2022_)								       		
-- Master, Informatique	| Université de Nantes (_2016_)	 			        		
-- Licence, Informatique | Université Pierre et Marie Curie (UPMC) (_2013_)
+
+- **Doctorat, Informatique** – Université Paris-Saclay (CentraleSupélec), *mai 2022*  
+- **Master, Informatique** – Université de Nantes, *2016*  
+- **Licence, Informatique** – Université Pierre et Marie Curie (UPMC), *2013*
 
 ## Expériences professionnelles
 **Ingénieur chercheur @ Anse Technology (_Juillet 2022 - Août 2024_)**

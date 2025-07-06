@@ -14,5 +14,5 @@
 - Extraction, traitement et diffusion automatique de messages journalistiques utilisant les LLMs.
 
 **Software Engineer/Doctorant CIFRE @ IBM France Labs (_Mars 2019 - Juin 2022_)**
-- Apprentissage de modèles de MCDA à partir de données non monotones (thèse).
+- Apprentissage de modèles de MCDA à partir de données non monotones ([thèse](https://theses.hal.science/tel-03717431).
 

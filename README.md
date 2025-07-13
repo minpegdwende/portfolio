@@ -3,6 +3,8 @@
 #### Domaines d'intérêt : IA, ML, Aide à la décision (MCDA), Recherche opérationnelle, NLP/LLM.
 #### Stack Technique : Python, SQL, scikit-learn, Docker, AWS.
 
+[CV](/docs/cv.pdf)
+
 ## Formation
 
 - **Doctorat, Informatique** – Université Paris-Saclay (CentraleSupélec), *mai 2022*  

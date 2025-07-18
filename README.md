@@ -18,3 +18,7 @@
 **Software Engineer/Doctorant CIFRE @ IBM France Labs (_Mars 2019 - Juin 2022_)**
 - Apprentissage de modèles de MCDA à partir de données non monotones ([thèse](https://theses.hal.science/tel-03717431)).
 
+## Publications et Communications Scientifiques
+- 2021 : P. Minoungou et al., Learning MR-Sort Models from Non-Monotone Data, Annals of OR ([arXiv](https://arxiv.org/abs/2107.09668)).
+- 2020 : P. Minoungou et al., Learning an MR-Sort model from data with latent criteria preference direction, DA2PL Workshop, Trento (Italy) ([HAL](https://hal.archives-ouvertes.fr/hal-03102714)).
+
